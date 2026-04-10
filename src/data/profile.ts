@@ -127,7 +127,7 @@ export const profile = {
       url: "https://expressfencingtreeservices.co.uk/",
       tags: ["Website", "SEO"],
       description:
-        "Small business website build emphasising clarity, performance, and search visibility.",
+        "Small business website build emphasizing clarity, performance, and search visibility.",
     },
   ],
 } as const;
